@@ -1,0 +1,6 @@
+Github에 작성하는 내 일기 입니다.
+
+
+2023. 05. 23
+ Github 테스트를 위해 AutoML_testing에 있는 파일을 TranslationSiteCompare로 이동시켰다.
+ 기존의 Google, Deepl, Papage의 번역에 MS 번역을 추가함.
