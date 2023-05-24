@@ -3,4 +3,9 @@ Github에 작성하는 내 일기 입니다.
 
 2023. 05. 23
  Github 테스트를 위해 AutoML_testing에 있는 파일을 TranslationSiteCompare로 이동시켰다.
- 기존의 Google, Deepl, Papage의 번역에 MS 번역을 추가함.
+ 기존의 Google, Deepl, Papage의 번역에 MS 번역을 추가함4
+
+2023. 05. 23
+ 오늘은 사무실 출근한 날. 
+ 상무님께서 마케팅 팀과 점심을 먹을 수 있는지 물어왔으나 다음에 함께한다고 회신함.
+ 김 수석님, 이 수석님과 삼성각에 가서 점심 특선을 먹고, 에그드롭에서 차를 주문하여 사무실에서 마심.
